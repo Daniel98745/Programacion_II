@@ -1,0 +1,24 @@
+F:\EDU\SISTEMAS\programacicon ll\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.csprojResolveAssemblyReference.cache
+F:\EDU\SISTEMAS\programacicon ll\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.exe.config
+F:\EDU\SISTEMAS\programacicon ll\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.exe
+F:\EDU\SISTEMAS\programacicon ll\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.pdb
+F:\EDU\SISTEMAS\programacicon ll\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.exe
+F:\EDU\SISTEMAS\programacicon ll\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.pdb
+E:\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.exe.config
+E:\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.exe
+E:\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.pdb
+E:\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.csprojResolveAssemblyReference.cache
+E:\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.exe
+E:\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.pdb
+E:\programacion 2\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.csprojResolveAssemblyReference.cache
+E:\programacion 2\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.exe
+E:\programacion 2\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.exe.config
+E:\programacion 2\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.exe
+E:\programacion 2\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.pdb
+E:\programacion 2\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.pdb
+G:\Programacion II\2bim\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.exe.config
+G:\Programacion II\2bim\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.exe
+G:\Programacion II\2bim\proyectoCuerpoHumano\proyectoCuerpoHumano\bin\Debug\proyectoCuerpoHumano.pdb
+G:\Programacion II\2bim\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.csprojResolveAssemblyReference.cache
+G:\Programacion II\2bim\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.exe
+G:\Programacion II\2bim\proyectoCuerpoHumano\proyectoCuerpoHumano\obj\Debug\proyectoCuerpoHumano.pdb
